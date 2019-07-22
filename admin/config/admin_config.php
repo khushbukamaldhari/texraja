@@ -1,0 +1,34 @@
+<?php
+define( 'ADMIN_JS_DIR', 'js' );
+define( 'ADMIN_VIEW_DIR', 'views' );
+define( 'ADMIN_IMAGES_DIR', 'images' );
+define( 'ADMIN_INCLUDES_DIR', 'includes' );
+define( 'ADMIN_TEMPLATE_DIR', 'template-parts' );
+define( 'ADMIN_PLUGINS_DIR', 'plugins' );
+define( 'ADMIN_PATH', BASE_PATH . DIR_SEPERATOR . ADMIN_DIR . DIR_SEPERATOR );
+//define( 'ADMIN_JS_PATH', BASE_URL . DIR_SEPERATOR . ADMIN_DIR . DIR_SEPERATOR . ASSET_DIR . DIR_SEPERATOR . 'js' . DIR_SEPERATOR );
+define( 'ADMIN_CSS_PATH', BASE_URL . ADMIN_DIR . DIR_SEPERATOR . ASSET_DIR . DIR_SEPERATOR . 'css' . DIR_SEPERATOR );
+define( 'ADMIN_JS_PLUGINS_PATH', BASE_URL . DIR_SEPERATOR . ADMIN_DIR . DIR_SEPERATOR . ASSET_DIR . DIR_SEPERATOR . ADMIN_JS_DIR . DIR_SEPERATOR . ADMIN_PLUGINS_DIR . DIR_SEPERATOR );
+define( 'ADMIN_IMAGES_URL',  BASE_URL . ADMIN_DIR . DIR_SEPERATOR . ASSET_DIR . DIR_SEPERATOR. ADMIN_IMAGES_DIR . DIR_SEPERATOR );
+
+/* Includes */
+define( 'FL_ADMIN_HEADER', ADMIN_PATH . INCLUDE_DIR . DIR_SEPERATOR . 'header.php');
+define( 'FL_ADMIN_HEADER_INCLUDE', ADMIN_PATH . DIR_SEPERATOR . INCLUDE_DIR . DIR_SEPERATOR . 'header_includes.php');
+define( 'FL_ADMIN_FOOTER', ADMIN_PATH . DIR_SEPERATOR . INCLUDE_DIR . DIR_SEPERATOR . 'footer.php' );
+define( 'FL_ADMIN_FOOTER_INCLUDE', ADMIN_PATH . DIR_SEPERATOR . INCLUDE_DIR . DIR_SEPERATOR . 'footer_includes.php');
+define( 'FL_ADMIN_SIDEBAR', ADMIN_PATH . DIR_SEPERATOR . INCLUDE_DIR . DIR_SEPERATOR . 'sidebar.php');
+
+/* Views File */
+
+define( 'VW_ADMIN_USER', ADMIN_URL  .  'admin-user-list' );
+define( 'VW_ADMIN_BLOG', ADMIN_URL  .  'admin-blog' );
+define( 'VW_ADMIN_PRODUCT', ADMIN_URL  .  'admin-product' );
+define( 'VW_ADMIN_PRODUCT_EXTRA', ADMIN_URL  .  'admin-pro-extra' );
+
+/* Wordpress Blog header file */
+define( 'FL_BLOG_HEADER', ADMIN_PATH . DIR_SEPERATOR . 'blogs' .DIR_SEPERATOR . 'wp-blog-header.php' );
+
+/* Template Part */
+define( 'TP_ADD_BLOG', ADMIN_PATH . ADMIN_VIEW_DIR . DIR_SEPERATOR . ADMIN_TEMPLATE_DIR . DIR_SEPERATOR . 'add-blog.php' );
+define( 'TP_ADD_ATTRIBUTE', ADMIN_PATH . ADMIN_VIEW_DIR . DIR_SEPERATOR . ADMIN_TEMPLATE_DIR . DIR_SEPERATOR . 'add-attribute.php' );
+define( 'TP_ADD_PRODUCT', ADMIN_PATH . ADMIN_VIEW_DIR . DIR_SEPERATOR . ADMIN_TEMPLATE_DIR . DIR_SEPERATOR . 'add-product.php' );

@@ -1,0 +1,26 @@
+RewriteEngine On
+# RewriteCond %{HTTPS} !=on
+
+# Use only if in sub-directory otherwise use just /
+RewriteBase /webcase/texraja/
+
+Options +FollowSymLinks -MultiViews
+
+# List of URLs to redirect
+RewriteRule ^login ./views/login
+RewriteRule ^register ./views/registration
+RewriteRule ^product ./views/products
+RewriteRule ^logout ./views/logout
+RewriteRule ^blog ./views/blog
+RewriteRule ^admin/admin-user-list ./admin/views/admin-user-list
+RewriteRule ^admin/admin-blog ./admin/views/admin-blog
+RewriteRule ^admin/admin-product ./admin/views/admin-product
+RewriteRule ^admin/admin-pro-extra ./admin/views/admin-product-extra
+RewriteRule ^home ./admin/index
+
+# To remove .php extention from the URL
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R=301]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*?)/?$ $1.php [NC]

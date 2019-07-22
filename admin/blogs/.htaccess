@@ -1,0 +1,13 @@
+#This Apache config file was created by Duplicator Installer on 2019-07-04 10:23:23.
+#The original can be found in archived file with the name htaccess.orig
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /webcase/texraja/admin/blogs/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /webcase/texraja/admin/blogs/index.php [L]
+</IfModule>
+# END WordPress

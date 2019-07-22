@@ -1,0 +1,72 @@
+[19-Jul-2019 10:35:29 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:36:19 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:36:57 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:37:04 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:37:13 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:37:28 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:37:32 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:37:52 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:38:57 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:39:39 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:39:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:41:25 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:42:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:358
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 358
+[19-Jul-2019 10:43:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method product::get_product_list() in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php:359
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php(18): admin_ajax->get_all_product(Array)
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/admin_ajax.php on line 359
+[19-Jul-2019 11:44:22 Etc/GMT] PHP Notice:  Undefined variable: insert_id in /home/herinh4u/public_html/webcase/texraja/core/product.php on line 451
+[19-Jul-2019 11:44:22 Etc/GMT] PHP Notice:  Undefined variable: insert_id in /home/herinh4u/public_html/webcase/texraja/core/product.php on line 452

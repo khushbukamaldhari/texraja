@@ -1,0 +1,23 @@
+[19-Jul-2019 10:35:27 Etc/GMT] PHP Warning:  Use of undefined constant TP_ADD_PRODUCT - assumed 'TP_ADD_PRODUCT' (this will throw an Error in a future version of PHP) in /home/herinh4u/public_html/webcase/texraja/admin/views/admin-product.php on line 56
+[19-Jul-2019 10:35:27 Etc/GMT] PHP Warning:  include_once(TP_ADD_PRODUCT): failed to open stream: No such file or directory in /home/herinh4u/public_html/webcase/texraja/admin/views/admin-product.php on line 56
+[19-Jul-2019 10:35:27 Etc/GMT] PHP Warning:  include_once(): Failed opening 'TP_ADD_PRODUCT' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/herinh4u/public_html/webcase/texraja/admin/views/admin-product.php on line 56
+[19-Jul-2019 10:36:18 Etc/GMT] PHP Warning:  include_once(/home/herinh4u/public_html/webcase/texraja//admin/views/template-parts/add-product.php): failed to open stream: No such file or directory in /home/herinh4u/public_html/webcase/texraja/admin/views/admin-product.php on line 56
+[19-Jul-2019 10:36:18 Etc/GMT] PHP Warning:  include_once(): Failed opening '/home/herinh4u/public_html/webcase/texraja//admin/views/template-parts/add-product.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/herinh4u/public_html/webcase/texraja/admin/views/admin-product.php on line 56
+[19-Jul-2019 10:57:03 Etc/GMT] PHP Notice:  Undefined variable: product in /home/herinh4u/public_html/webcase/texraja/admin/views/template-parts/add-product.php on line 25
+[19-Jul-2019 10:57:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function get_attribute_by_type() on null in /home/herinh4u/public_html/webcase/texraja/admin/views/template-parts/add-product.php:25
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/views/admin-product.php(56): include_once()
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/views/template-parts/add-product.php on line 25
+[19-Jul-2019 10:57:09 Etc/GMT] PHP Notice:  Undefined variable: product in /home/herinh4u/public_html/webcase/texraja/admin/views/template-parts/add-product.php on line 25
+[19-Jul-2019 10:57:09 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function get_attribute_by_type() on null in /home/herinh4u/public_html/webcase/texraja/admin/views/template-parts/add-product.php:25
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/views/admin-product.php(56): include_once()
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/views/template-parts/add-product.php on line 25
+[19-Jul-2019 10:57:11 Etc/GMT] PHP Notice:  Undefined variable: product in /home/herinh4u/public_html/webcase/texraja/admin/views/template-parts/add-product.php on line 25
+[19-Jul-2019 10:57:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function get_attribute_by_type() on null in /home/herinh4u/public_html/webcase/texraja/admin/views/template-parts/add-product.php:25
+Stack trace:
+#0 /home/herinh4u/public_html/webcase/texraja/admin/views/admin-product.php(56): include_once()
+#1 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/admin/views/template-parts/add-product.php on line 25

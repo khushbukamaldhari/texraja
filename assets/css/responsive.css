@@ -1,0 +1,131 @@
+/*Big-Tablet view*/
+@media screen and (max-width:1024px){
+
+body {
+    padding-top: 110px;
+}
+
+
+}
+/*Big-Tablet view close*/
+/***********************************/
+/*Tablet view*/
+@media screen and (min-width:768px) and (max-width:1024px){
+body h1 { font-size: 20px;}
+body h2 { font-size: 18px;}
+body h3 { font-size: 16px;}
+body h4 { font-size: 14px;}
+
+.section-gapping,
+section {
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.kd-sm-6 {
+    width: 50%;
+}
+
+.blog-box .blog-title {
+    font-size: 20px;
+}
+
+
+
+}
+/*Tablet view close*/
+/***********************************/
+/*Mobile view*/
+@media screen and (max-width:767px){
+body p{
+	font-size:14px;
+}
+body h1 { font-size: 18px;}
+body h2 { font-size: 16px;}
+body h3 { font-size: 14px;}
+body h4 { font-size: 12px;}
+
+.section-gapping,
+section {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.kd-1,.kd-2,.kd-3,.kd-4,.kd-5,.kd-6,.kd-7,.kd-8,.kd-9,.kd-10,.kd-11,.kd-12{
+	width: 100%;
+	float: none;
+}
+div#login, #frm_signup {
+    width: 100%;
+}
+.header-wrap {
+	padding: 10px 15px;
+}
+.header-wrap .logo-wrap {
+	max-width: 90px;
+}
+.nav-menu ul li {
+	margin-right: 5px;
+}
+.nav-menu ul li .menu-link {
+	font-size: 14px;
+	padding: 5px;
+}
+.nav-menu .comm-btn {
+    padding: 4px 6px;
+    font-size: 13px;
+}
+
+div#login, #frm_signup {
+    margin-top: 20px;
+}
+.form-box {
+    min-height: 100%;
+    box-shadow: none;
+    border: none;
+    overflow-y: scroll;
+}
+
+
+
+/*blog page*/
+
+.blog-section-wrap {
+	margin: 0 0 20px;
+	padding: 0 0px;
+}
+.blogs-wrap .blog-box {
+	width: 100%;
+	float: none;
+	margin: 0 0 20px 0 !important;
+}
+.title {
+	font-size: 30px;
+}
+#blog-section {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.blogs-wrap {
+	margin-top: 15px;
+}
+.blogs-wrap .blog-box {
+    min-height: auto;
+}
+/* close blog page*/
+
+
+}
+/*Mobile view close*/
+
+ @media only screen and (min-device-width: 374px) and (max-device-width: 921px) { 
+     
+div#login, #frm_signup {
+    width: 100%;
+    position: relative;
+    top: 0;
+    -webkit-transform: none;
+    transform: none;
+    overflow-y: auto;
+    margin: 0 0 50px;
+}
+
+}

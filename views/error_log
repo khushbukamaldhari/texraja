@@ -1,0 +1,89 @@
+[19-Jul-2019 05:49:28 Etc/GMT] PHP Warning:  Use of undefined constant VW_BLOG - assumed 'VW_BLOG' (this will throw an Error in a future version of PHP) in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 34
+[19-Jul-2019 05:50:08 Etc/GMT] PHP Warning:  Use of undefined constant VW_BLOG - assumed 'VW_BLOG' (this will throw an Error in a future version of PHP) in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 34
+[19-Jul-2019 05:53:41 Etc/GMT] PHP Warning:  include_once(/home/herinh4u/public_html/webcase/texraja//admin//blogs/wp-blog-header.php): failed to open stream: No such file or directory in /home/herinh4u/public_html/webcase/texraja/views/blog.php on line 21
+[19-Jul-2019 05:53:41 Etc/GMT] PHP Warning:  include_once(): Failed opening '/home/herinh4u/public_html/webcase/texraja//admin//blogs/wp-blog-header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/herinh4u/public_html/webcase/texraja/views/blog.php on line 21
+[19-Jul-2019 05:53:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_query_var() in /home/herinh4u/public_html/webcase/texraja/views/blog.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/herinh4u/public_html/webcase/texraja/views/blog.php on line 39
+[19-Jul-2019 07:08:25 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 07:54:00 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 08:01:38 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 08:14:55 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 08:21:30 Etc/GMT] PHP Warning:  Use of undefined constant VW_HOME - assumed 'VW_HOME' (this will throw an Error in a future version of PHP) in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 20
+[19-Jul-2019 08:37:28 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 49
+[19-Jul-2019 08:55:00 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 55
+[19-Jul-2019 08:55:28 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 58
+[19-Jul-2019 08:55:46 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 58
+[19-Jul-2019 09:10:08 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:10:09 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:25:25 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:28:21 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:28:34 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:29:09 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:30:17 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:32:10 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:35:08 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:36:54 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:37:36 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:39:21 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:40:09 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:40:12 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:40:14 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:40:22 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:40:41 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:41:03 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:42:07 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 09:42:08 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:42:15 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 09:42:16 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:43:30 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 53
+[19-Jul-2019 09:43:41 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 55
+[19-Jul-2019 09:43:56 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 55
+[19-Jul-2019 09:43:56 Etc/GMT] PHP Notice:  Undefined variable: class in /home/herinh4u/public_html/webcase/texraja/includes/header.php on line 55
+[19-Jul-2019 09:58:41 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 09:59:49 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:16:15 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:31:17 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:39:19 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:44:42 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:53:07 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:54:12 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:54:25 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:54:56 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:56:08 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:56:09 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:57:30 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:57:41 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 10:57:53 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 11:22:26 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 11:25:49 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 11:38:17 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 11:48:46 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[19-Jul-2019 12:13:50 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 03:51:14 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 03:51:52 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 04:35:45 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 04:38:49 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 05:14:49 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 06:46:55 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 06:47:08 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 07:10:43 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 07:51:14 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 07:54:32 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[20-Jul-2019 07:59:32 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 03:45:17 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 04:33:20 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 04:58:08 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 05:35:26 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 05:37:13 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 06:38:52 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 07:26:54 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 07:27:19 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 07:28:13 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 07:30:15 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 07:35:34 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 07:40:38 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 07:41:49 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 08:01:34 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
+[22-Jul-2019 09:37:22 Etc/GMT] PHP Notice:  session_start(): A session had already been started - ignoring in /home/herinh4u/public_html/webcase/texraja/views/logout.php on line 3
