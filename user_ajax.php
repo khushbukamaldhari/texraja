@@ -1,6 +1,6 @@
 <?php
 require_once 'config/config.php';
-
+echo "Helllo sagar";
 $ajax = new user_ajax();
 
 if ( isset( $_POST['action'] ) && !empty( trim( $_POST['action'] ) ) ) {
